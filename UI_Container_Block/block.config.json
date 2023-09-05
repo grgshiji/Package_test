@@ -1,0 +1,21 @@
+{
+  "blockId": "XkLvS4aM2MthAdWHWVq9C",
+  "name": "UI_Container_Block",
+  "type": "ui-container",
+  "source": {
+    "https": "https://github.com/grgshiji/Package_test.git",
+    "ssh": "git@github.com:grgshiji/Package_test.git",
+    "branch": "block_UI_Container_Block"
+  },
+  "parentBlockIDs": [
+    "CyrhV-8jD8_JjxKlOkdGL"
+  ],
+  "repoType": "mono",
+  "language": "js",
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "isPublic": true,
+  "start": "npx webpack-dev-server",
+  "build": "npx webpack"
+}
