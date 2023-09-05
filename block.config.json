@@ -30,6 +30,9 @@
     },
     "UI_Container_Block": {
       "directory": "UI_Container_Block"
+    },
+    "UI_Element_Block": {
+      "directory": "UI_Element_Block"
     }
   },
   "blockId": "CyrhV-8jD8_JjxKlOkdGL",
