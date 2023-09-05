@@ -1,0 +1,22 @@
+{
+  "name": "todoItem",
+  "type": "ui-elements",
+  "source": {
+    "https": "https://github.com/grgshiji/Package_test.git",
+    "ssh": "git@github.com:grgshiji/Package_test.git",
+    "branch": "block_todoItem"
+  },
+  "language": "js",
+  "start": "npx webpack-dev-server",
+  "build": "npx webpack",
+  "postPull": "npm i",
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "blockId": "MYDdNHKnEV-ACHyLhXZVm",
+  "isPublic": true,
+  "repoType": "mono",
+  "parentBlockIDs": [
+    "CyrhV-8jD8_JjxKlOkdGL"
+  ]
+}
