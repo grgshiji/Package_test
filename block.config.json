@@ -2,8 +2,8 @@
   "name": "Package_test",
   "type": "package",
   "source": {
-    "https": null,
-    "ssh": null,
+    "https": "https://github.com/grgshiji/Package_test.git",
+    "ssh": "git@github.com:grgshiji/Package_test.git",
     "branch": "block_Package_test"
   },
   "dependencies": {

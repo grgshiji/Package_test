@@ -3,8 +3,8 @@
   "name": "Function_Block",
   "type": "function",
   "source": {
-    "https": null,
-    "ssh": null,
+    "https": "https://github.com/grgshiji/Package_test.git",
+    "ssh": "git@github.com:grgshiji/Package_test.git",
     "branch": "block_Function_Block"
   },
   "parentBlockIDs": [
